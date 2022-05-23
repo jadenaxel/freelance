@@ -5,13 +5,19 @@
     padding: 0;
     margin: 0;
 }
-
 body {
     font-family: Gilroy, sans-serif;
     background-color: #fafafa;
+    scroll-behavior: smooth;
 }
 .container {
     max-width: 1920px;
     width: 100%;
     margin: 0 auto;
+}
+.containerDashboard {
+    max-width: 870px;
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
 }

@@ -178,7 +178,7 @@
     .profileButtonActions > div {
         border-radius: 10px;
         height: 40px;
-        width: 45%;
+        width: 48%;
     }
     .profileButtonActions .view {
         display: flex;
