@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412.561" height="88.501" viewBox="0 0 412.561 88.501">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.023" y1="0.811" x2="1" y2="0.808" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4cdfe8" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#7947f7" stop-opacity="0.051"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-346.353 -453.956)">
+    <g id="Frame_641" data-name="Frame 641" transform="translate(376.383 529.457)" opacity="0.4">
+      <text id="Jan" transform="translate(0 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Jan</tspan></text>
+      <text id="Feb" transform="translate(32 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Feb</tspan></text>
+      <text id="Mar" transform="translate(65 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Mar</tspan></text>
+      <text id="Apr" transform="translate(99 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Apr</tspan></text>
+      <text id="May" transform="translate(132 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">May</tspan></text>
+      <text id="Jun" transform="translate(167 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Jun</tspan></text>
+      <text id="Jul" transform="translate(200 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Jul</tspan></text>
+      <text id="Aug" transform="translate(229 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Aug</tspan></text>
+      <text id="Sep" transform="translate(263 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Sep</tspan></text>
+      <text id="Oct" transform="translate(296 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Oct</tspan></text>
+      <text id="Nov" transform="translate(329 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Nov</tspan></text>
+      <text id="Dec" transform="translate(363 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Dec</tspan></text>
+    </g>
+    <g id="Frame_642" data-name="Frame 642" transform="translate(346.353 454.956)" opacity="0.4">
+      <text id="_400k" data-name="400k" transform="translate(0 -1)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="3.857" y="11">400k</tspan></text>
+      <text id="_300k" data-name="300k" transform="translate(0 18.471)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="3.857" y="11">300k</tspan></text>
+      <text id="_200k" data-name="200k" transform="translate(0 37.941)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="3.857" y="11">200k</tspan></text>
+      <text id="_100k" data-name="100k" transform="translate(2 57.412)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="1.857" y="11">100k</tspan></text>
+    </g>
+    <g id="Group_701" data-name="Group 701">
+      <g id="Group_642" data-name="Group 642">
+        <path id="Vector_640" data-name="Vector 640" d="M0,0H378.214" transform="translate(379 519.671)" fill="none" stroke="#dce3eb" stroke-linecap="round" stroke-width="0.631" stroke-dasharray="1.894 2.525"/>
+        <path id="Vector_641" data-name="Vector 641" d="M0,0H378.214" transform="translate(379 500.099)" fill="none" stroke="#dce3eb" stroke-linecap="round" stroke-width="0.631" stroke-dasharray="1.894 2.525"/>
+        <path id="Vector_642" data-name="Vector 642" d="M0,0H378.214" transform="translate(379 480.526)" fill="none" stroke="#dce3eb" stroke-linecap="round" stroke-width="0.631" stroke-dasharray="1.894 2.525"/>
+        <path id="Vector_643" data-name="Vector 643" d="M0,0H378.214" transform="translate(379 460.954)" fill="none" stroke="#dce3eb" stroke-linecap="round" stroke-width="0.631" stroke-dasharray="1.894 2.525"/>
+      </g>
+      <g id="Group_641" data-name="Group 641">
+        <path id="Vector_644" data-name="Vector 644" d="M0,47.915l12.264-2.6,8.76-20.163H36.355l6.57,17.778,14.017-5.854H68.769l5.256-4.119h12.7l8.76,19.3,6.57-13.009h15.769l18.4-15.61H149.8l17.521,9.323h11.388L189.224,4.119,201.05,21.247h14.893l12.264-7.805H245.29L263.249,0l10.074,15.394,12.264,12.575,18.835-4.77,14.893,5.2L338.588,14.96l15.769,13.009,22.777-13.876V57.455H0Z" transform="translate(381.455 462.532)" fill="url(#linear-gradient)"/>
+        <path id="Vector_639" data-name="Vector 639" d="M0,47.476,12.264,44.9l8.76-19.979H36.355l6.57,17.616,14.017-5.8H68.769l5.256-4.082h12.7l8.76,19.119,6.57-12.889h15.769l18.4-15.467H149.8l17.521,9.237h11.388L189.224,4.082,201.05,21.053h14.893l12.264-7.734H245.29L263.249,0l10.074,15.252,12.264,12.46,18.835-4.726,14.893,5.156,19.273-13.319,15.769,12.889,22.777-13.749" transform="translate(381.455 462.532)" fill="none" stroke="#4cdfe8" stroke-width="1.263"/>
+      </g>
+    </g>
+  </g>
+</svg>

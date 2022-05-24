@@ -56,7 +56,7 @@
 <style>
     .settings {
         background-color: white;
-        height: 100vh;
+        min-height: 100vh;
         padding: 47px 35px;
         display: flex;
         flex-direction: column;
@@ -65,7 +65,7 @@
         overflow-x: hidden;
     }
     .settings::-webkit-scrollbar {
-        width: 12px;
+        width: 10px;
     }
     .settings::-webkit-scrollbar-track {
         background: orange; 

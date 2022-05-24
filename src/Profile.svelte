@@ -73,13 +73,13 @@
 <style>
     .profile {
         background-color: white;
-        height: 100vh;
+        min-height: 100vh;
         padding: 47px 20px;
         overflow-y: auto;
         overflow-x: hidden;
     }
     .profile::-webkit-scrollbar {
-        width: 12px;
+        width: 10px;
     }
     .profile::-webkit-scrollbar-track {
         background: orange;
