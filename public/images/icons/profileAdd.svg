@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="13.718" height="14.606" viewBox="0 0 13.718 14.606">
-  <g id="Group_2" data-name="Group 2" transform="translate(-917.15 -765.683)">
-    <g id="Group_1" data-name="Group 1">
-      <path id="Stroke_1" data-name="Stroke 1" d="M4.715,4.865C2.172,4.865,0,4.481,0,2.941S2.158,0,4.715,0,9.429,1.387,9.429,2.927,7.271,4.865,4.715,4.865Z" transform="translate(917.9 774.674)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <path id="Stroke_3" data-name="Stroke 3" d="M3.022,6.044a3.011,3.011,0,1,0-.021,0Z" transform="translate(919.593 766.433)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <path id="Stroke_5" data-name="Stroke 5" d="M.333,0V2.673" transform="translate(928.421 770.419)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <path id="Stroke_7" data-name="Stroke 7" d="M2.727.333H0" transform="translate(927.392 771.423)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="13.718" height="14.606" viewBox="0 0 13.718 14.606"><g id="Group_2" data-name="Group 2" transform="translate(-917.15 -765.683)"><g id="Group_1" data-name="Group 1"><path id="Stroke_1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4.715,4.865C2.172,4.865,0,4.481,0,2.941S2.158,0,4.715,0,9.429,1.387,9.429,2.927,7.271,4.865,4.715,4.865Z" data-name="Stroke 1" transform="translate(917.9 774.674)"/><path id="Stroke_3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.022,6.044a3.011,3.011,0,1,0-.021,0Z" data-name="Stroke 3" transform="translate(919.593 766.433)"/><path id="Stroke_5" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M.333,0V2.673" data-name="Stroke 5" transform="translate(928.421 770.419)"/><path id="Stroke_7" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M2.727.333H0" data-name="Stroke 7" transform="translate(927.392 771.423)"/></g></g></svg>
