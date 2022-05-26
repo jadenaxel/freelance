@@ -77,6 +77,7 @@
         padding: 47px 20px;
         overflow-y: auto;
         overflow-x: hidden;
+        display: none;
     }
     .profile::-webkit-scrollbar {
         width: 10px;

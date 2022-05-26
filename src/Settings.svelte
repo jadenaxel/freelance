@@ -63,6 +63,8 @@
         justify-content: space-between;
         overflow-y: auto;
         overflow-x: hidden;
+        /* position: absolute; */
+        display: none;
     }
     .settings::-webkit-scrollbar {
         width: 10px;

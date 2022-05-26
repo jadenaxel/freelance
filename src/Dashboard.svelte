@@ -147,6 +147,7 @@
 
 <style>
     .dashboard {
+        grid-area: dashboard;
         padding-top: 39px;
     }
     .stories {
@@ -193,6 +194,7 @@
     .performancePost {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        gap: 20px;
     }
     .performancePost div {
         max-width: 210px;
@@ -225,18 +227,20 @@
     }
     .analitysAndDistribution {
         display: grid;
-        grid-template-columns: 2fr 1fr;
-        grid-template-areas: "analytics distribution";
+        grid-template-columns: 1fr;
+        grid-template-areas: "analytics" "distribution";
         gap: 31px;
         margin-bottom: 70px;
     }
     .analyticsAndOther {
         grid-area: analytics;
         display: grid;
-        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-columns: 1fr;
         grid-template-areas:
-            "dailyNews dailyNews dailyNews"
-            "music scheduled addNew";
+            "dailyNews"
+            "music"
+            "scheduled"
+            "addNew";
         gap: 10px;
     }
     .dailyViews {
@@ -319,6 +323,7 @@
         padding: 20px;
         border-radius: 10px;
         background-color: white;
+        text-align: center;
     }
     .scheduledImage,
     .addNewImage {
@@ -333,7 +338,7 @@
     .distributionContainer {
         font-size: 16px;
         font-weight: bold;
-        margin-bottom: 20px;
+        margin-bottom: 32px;
         height: max-content;
     }
     .distributionContent {
@@ -410,7 +415,7 @@
     }
     .targets {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
         gap: 10px;
         margin-bottom: 20px;
     }
@@ -430,13 +435,14 @@
         background-color: #51459e;
         color: white;
     }
-    .whiteTargetLine{
-        background-color: #F6F6FC;
+    .whiteTargetLine {
+        background-color: #f6f6fc;
     }
-    .otherTargetLine{
-        background-color: #FFFFFF;
+    .otherTargetLine {
+        background-color: #ffffff;
     }
-    .whiteTargetLine, .otherTargetLine{
+    .whiteTargetLine,
+    .otherTargetLine {
         height: 100%;
         width: 1px;
     }
@@ -450,10 +456,11 @@
     .otherTargetText p:last-child {
         font-size: 13px;
     }
-    .whiteTargetPorcent{
-        color: #4D4A81;
+    .whiteTargetPorcent {
+        color: #4d4a81;
     }
-    .otherTargetPorcent, .whiteTargetPorcent {
+    .otherTargetPorcent,
+    .whiteTargetPorcent {
         width: 75px;
         height: 75px;
         border-radius: 50%;
@@ -463,5 +470,19 @@
         border: 5px solid #f9896b;
         font-size: 17px;
         font-weight: bold;
+    }
+    @media (min-width: 768px) {
+        .analitysAndDistribution {
+            grid-template-columns: 2fr 1fr;
+            grid-template-areas: "analytics distribution";
+        }
+        .analyticsAndOther {
+            grid-area: analytics;
+            grid-template-columns: 2fr 1fr 1fr;
+            grid-template-areas:
+                "dailyNews dailyNews dailyNews"
+                "music scheduled addNew";
+            gap: 10px;
+        }
     }
 </style>
