@@ -61,12 +61,12 @@
         </div>
     </div>
     <div class="imagesGrid">
-        <img src="/images/1.jpg" alt="">
-        <img src="/images/2.jpg" alt="">
-        <img src="/images/3.jpg" alt="">
-        <img src="/images/4.jpg" alt="">
-        <img src="/images/5.jpg" alt="">
-        <img src="/images/6.jpg" alt="">
+        <img src="/images/1.jpg" alt="" />
+        <img src="/images/2.jpg" alt="" />
+        <img src="/images/3.jpg" alt="" />
+        <img src="/images/4.jpg" alt="" />
+        <img src="/images/5.jpg" alt="" />
+        <img src="/images/6.jpg" alt="" />
     </div>
 </div>
 
@@ -195,7 +195,7 @@
         align-items: center;
         border: 1px solid #e6e6eb;
     }
-    .profileMultimedia{
+    .profileMultimedia {
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -206,16 +206,17 @@
         border-radius: 10px;
         width: 48%;
     }
-    .profileMultimedia .video, .profileMultimedia .photo{
+    .profileMultimedia .video,
+    .profileMultimedia .photo {
         padding: 17px;
     }
-    .profileMultimedia .video{
+    .profileMultimedia .video {
         background-color: #f2e9ff;
     }
-    .profileMultimedia .photo{
+    .profileMultimedia .photo {
         background-color: #fef3f0;
     }
-    .xIcon{
+    .xIcon {
         width: 100%;
         font-weight: bold;
         display: flex;
@@ -223,35 +224,45 @@
         cursor: pointer;
         margin-bottom: 30px;
     }
-    .profileMultimedia .video .image, .profileMultimedia .photo .image{
+    .profileMultimedia .video .image,
+    .profileMultimedia .photo .image {
         width: 45px;
         height: 45px;
         object-fit: contain;
         margin-bottom: 19px;
     }
-    .photo div p:first-child, .video div p:first-child{
+    .photo div p:first-child,
+    .video div p:first-child {
         font-weight: bold;
         font-size: 22px;
     }
-    .photo div p:last-child, .video div p:last-child{
+    .photo div p:last-child,
+    .video div p:last-child {
         font-weight: bold;
         font-size: 12px;
     }
-    .video div p:first-child, .video div p:last-child{
+    .video div p:first-child,
+    .video div p:last-child {
         color: #51459e;
     }
-    .photo div p:first-child, .photo div p:last-child{
+    .photo div p:first-child,
+    .photo div p:last-child {
         color: #ac6755;
     }
-    .imagesGrid{
+    .imagesGrid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
         gap: 5px;
     }
-    .imagesGrid img{
+    .imagesGrid img {
         min-width: 80px;
         width: 100%;
         height: 111px;
         object-fit: cover;
+    }
+    @media (min-width: 1280px) {
+        .profile {
+            display: block;
+        }
     }
 </style>

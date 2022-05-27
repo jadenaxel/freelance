@@ -63,20 +63,19 @@
         justify-content: space-between;
         overflow-y: auto;
         overflow-x: hidden;
-        /* position: absolute; */
         display: none;
     }
     .settings::-webkit-scrollbar {
         width: 10px;
     }
     .settings::-webkit-scrollbar-track {
-        background: orange; 
+        background: orange;
     }
 
     .settings::-webkit-scrollbar-thumb {
-        background-color: #fafafa; 
+        background-color: #fafafa;
         border-radius: 20px;
-        border: 3px solid orange; 
+        border: 3px solid orange;
     }
     .logo {
         display: flex;
@@ -126,5 +125,10 @@
     }
     footer img {
         margin-right: 15px;
+    }
+    @media (min-width: 1280px) {
+        .settings {
+            display: block;
+        }
     }
 </style>

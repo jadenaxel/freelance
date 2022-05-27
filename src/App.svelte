@@ -20,11 +20,11 @@
         grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
         grid-template-areas: "dashboard";
     }
-    /* @media (min-width: 768px) {
+    @media (min-width: 1280px) {
         .page {
             display: grid;
             grid-template-columns: minmax(284px, 1fr) 3fr minmax(375px, 1fr);
             grid-template-areas: "setting dashboard profile";
         }
-    } */
+    }
 </style>
