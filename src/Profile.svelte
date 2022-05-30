@@ -6,15 +6,18 @@
         </div>
         <div class="greatingIcons">
             <div>
-                <img src="/images/icons/chat.png" alt="Chat Icon" />
+                <img src="/freelance/images/icons/chat.png" alt="Chat Icon" />
             </div>
             <div>
-                <img src="/images/icons/notify.png" alt="Notify Icon" />
+                <img
+                    src="/freelance/images/icons/notify.png"
+                    alt="Notify Icon"
+                />
             </div>
         </div>
     </div>
     <div class="profileContent">
-        <img src="/images/profile.png" alt="Photos Profile" />
+        <img src="/freelance/images/profile.png" alt="Photos Profile" />
         <div class="profileName">
             <p>AR Shakir</p>
             <p>UI/UX Designer @Redwhale</p>
@@ -45,7 +48,11 @@
     <div class="profileMultimedia">
         <div class="video">
             <div class="xIcon">x</div>
-            <img class="image" src="/images/icons/video.png" alt="Video" />
+            <img
+                class="image"
+                src="/freelance/images/icons/video.png"
+                alt="Video"
+            />
             <div>
                 <p>Videos</p>
                 <p>Click To Add Video.</p>
@@ -53,7 +60,11 @@
         </div>
         <div class="photo">
             <div class="xIcon">x</div>
-            <img class="image" src="/images/icons/camera.png" alt="Photos" />
+            <img
+                class="image"
+                src="/freelance/images/icons/camera.png"
+                alt="Photos"
+            />
             <div>
                 <p>Photos</p>
                 <p>Click To Add Photo.</p>
@@ -61,12 +72,12 @@
         </div>
     </div>
     <div class="imagesGrid">
-        <img src="/images/1.jpg" alt="" />
-        <img src="/images/2.jpg" alt="" />
-        <img src="/images/3.jpg" alt="" />
-        <img src="/images/4.jpg" alt="" />
-        <img src="/images/5.jpg" alt="" />
-        <img src="/images/6.jpg" alt="" />
+        <img src="/freelance/images/1.jpg" alt="" />
+        <img src="/freelance/images/2.jpg" alt="" />
+        <img src="/freelance/images/3.jpg" alt="" />
+        <img src="/freelance/images/4.jpg" alt="" />
+        <img src="/freelance/images/5.jpg" alt="" />
+        <img src="/freelance/images/6.jpg" alt="" />
     </div>
 </div>
 

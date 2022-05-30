@@ -7,7 +7,7 @@
 <div class="settings">
     <div>
         <div class="logo">
-            <img src="/images/logo.png" alt="Logo" />
+            <img src="/freelance/images/logo.png" alt="Logo" />
             <div class="logotipo">
                 <h1>Redwhale</h1>
                 <p>Growth & Marketing</p>
@@ -32,7 +32,7 @@
             </details>
             <img
                 class="postAddIcon"
-                src="/images/icons/add.png"
+                src="/freelance/images/icons/add.png"
                 alt="Add icon"
             />
         </div>
@@ -42,13 +42,13 @@
             </details>
             <img
                 class="postAddIcon"
-                src="/images/icons/add.png"
+                src="/freelance/images/icons/add.png"
                 alt="Add icon"
             />
         </div>
     </div>
     <footer>
-        <img src="/images/icons/add.png" alt="Add icon" />
+        <img src="/freelance/images/icons/add.png" alt="Add icon" />
         <p>Invite new member</p>
     </footer>
 </div>

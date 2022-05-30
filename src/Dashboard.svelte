@@ -7,8 +7,8 @@
     <div class="containerDashboard">
         <div class="stories">
             <div class="addStories">
-                <img src="/images/profile.png" alt="Photos profile" />
-                <img src="/images/Icon-add.png" alt="Icon Add" />
+                <img src="/freelance/images/profile.png" alt="Photos profile" />
+                <img src="/freelance/images/Icon-add.png" alt="Icon Add" />
                 <p>Add to</p>
             </div>
             {#each DashboardStories as item}
@@ -48,14 +48,14 @@
                             </div>
                         </div>
                         <div class="dailyViewStats">
-                            <img src="/images/stats.svg" alt="" />
+                            <img src="/freelance/images/stats.svg" alt="" />
                         </div>
                     </div>
                     <div class="analyticsMusic">
                         <div class="musicHeader">
-                            <img src="/images/1.jpg" alt="" />
+                            <img src="/freelance/images/1.jpg" alt="" />
                             <div class="pauseIcon">
-                                <img src="/images/icons/stopIcon.png" alt="" />
+                                <img src="/freelance/images/icons/stopIcon.png" alt="" />
                             </div>
                         </div>
                         <div class="musicbody">
@@ -67,13 +67,13 @@
                     </div>
                     <div class="scheduled">
                         <div class="scheduledImage">
-                            <img src="/images/icons/calendar.png" alt="" />
+                            <img src="/freelance/images/icons/calendar.png" alt="" />
                         </div>
                         <p>Scheduled</p>
                     </div>
                     <div class="addNew">
                         <div class="addNewImage">
-                            <img src="/images/icons/add2.png" alt="" />
+                            <img src="/freelance/images/icons/add2.png" alt="" />
                         </div>
                         <p>Add New</p>
                     </div>
@@ -86,26 +86,26 @@
                         Last 30 Days Performance
                     </p>
                     <div class="distributionRadio">
-                        <img src="/images/radio.svg" alt="" />
+                        <img src="/freelance/images/radio.svg" alt="" />
                     </div>
                     <p class="EventsDISTRIBUTION">Events DISTRIBUTION</p>
                     <div class="actionsDistribution">
                         <div class="likesDistro">
                             <div>
-                                <img src="/images/icons/heart.svg" alt="" />
+                                <img src="/freelance/images/icons/heart.svg" alt="" />
                             </div>
                             <p>Likes</p>
                         </div>
                         <div class="viewsDistro">
                             <div>
-                                <img src="/images/icons/Swap.svg" alt="" />
+                                <img src="/freelance/images/icons/Swap.svg" alt="" />
                             </div>
                             <p>Views</p>
                         </div>
                         <div class="peopleDistro">
                             <div>
                                 <img
-                                    src="/images/icons/profileAdd.svg"
+                                    src="/freelance/images/icons/profileAdd.svg"
                                     alt=""
                                 />
                             </div>
@@ -113,7 +113,7 @@
                         </div>
                         <div class="chatDistro">
                             <div>
-                                <img src="/images/icons/Chat.svg" alt="" />
+                                <img src="/freelance/images/icons/Chat.svg" alt="" />
                             </div>
                             <p>Shares</p>
                         </div>
@@ -217,13 +217,13 @@
         color: white;
     }
     .views {
-        background: url("/images/views.png") no-repeat center / 100%;
+        background: url("/freelance/images/views.png") no-repeat center / 100%;
     }
     .follows {
-        background: url("/images/follows.png") no-repeat center/ 100%;
+        background: url("/freelance/images/follows.png") no-repeat center/ 100%;
     }
     .likes {
-        background: url("/images/likes.png") no-repeat center/ 100%;
+        background: url("/freelance/images/likes.png") no-repeat center/ 100%;
     }
     .analitysAndDistribution {
         display: grid;
